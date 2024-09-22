@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning MERN Stack And Data Science.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me - david.singh.3683@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know that the first computer bug was actually a real bug?
                 In 1947, a moth got trapped in a Harvard Mark II computer, causing it to malfunction.
                  Grace Hopper, a computer scientist, removed the bug and taped it to her logbook,
